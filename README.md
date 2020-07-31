@@ -17,7 +17,7 @@ character animation of the head and tail that produces smoother snake movement.
 
 ## Pre-built prg file
 
-You can find pre-built prg file in the C64_files folder.
+You can find pre-built prg file in the [c64_files](https://github.com/jtompuri/snake6510/tree/master/c64_files) folder.
 
 ## Kick Assembler
 
