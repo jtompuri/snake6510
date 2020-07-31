@@ -1,10 +1,5 @@
 # snake6510
 
- ___           _        __ ___ _  __  
-/ __|_ _  __ _| |_____ / /| __/ |/  \ 
-\__ \ ' \/ _` | / / -_) _ \__ \ | () |
-|___/_||_\__,_|_\_\___\___/___/_|\__/ 
-
 Snake 6510 game for C64 written in 6510 assembly. Your goal is to eat 
 as many apples as possible and to avoid collision. The source code is 
 written for Kick Assembler. The idea for the game came from Nick Morgan's 
