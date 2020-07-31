@@ -1,6 +1,6 @@
 # Snake 6510
 
-Snake 6510 game for C64 written in 6510 assembly. Your goal is to eat as many apples as possible and to avoid collision. You can control the snake with "w", "a", "s", "d" keys or cursor keys. Press "p" for pause. The source code is written for Kick Assembler. The idea for the game came from Nick Morgan's tutorial on 6502 programming: https://skilldrick.github.io/easy6502/
+Snake 6510 game for C64 written in 6510 assembly. Your goal is to eat as many apples as possible and to avoid collision. You can control the snake with "w", "a", "s", "d" keys or cursor keys. Press "p" for pause and start a new game pressing the spacebar. The source code is written for Kick Assembler v5.16. The idea for the game came from Nick Morgan's tutorial on 6502 programming: https://skilldrick.github.io/easy6502/
 
 ## Fixes to original code
 
