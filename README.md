@@ -1,4 +1,4 @@
-# snake6510
+# Snake 6510
 
 Snake 6510 game for C64 written in 6510 assembly. Your goal is to eat 
 as many apples as possible and to avoid collision. The source code is 
